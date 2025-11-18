@@ -51,3 +51,4 @@ switch (idade) {
         console.log("Nada a dizer")
         break;
 }
+
